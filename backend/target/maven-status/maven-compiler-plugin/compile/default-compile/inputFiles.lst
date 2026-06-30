@@ -1,0 +1,12 @@
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\entity\MessageEntity.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\handler\GlobalExceptionHandler.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\repository\UserRepository.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\SimplemessengerApplication.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\entity\UserEntity.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\exception\ForbiddenException.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\exception\NotFoundException.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\exception\FieldError.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\exception\ConflictException.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\exception\UnauthorizedException.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\exception\ValidationException.java
+D:\Messenger\SimpleMessenger\backend\src\main\java\com\simplemessenger\repository\MessageRepository.java
